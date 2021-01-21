@@ -454,7 +454,7 @@
       "resolved": "https://registry.npmjs.org/simple-get/-/simple-get-2.8.1.tgz",
       "version": "2.8.1"
     },
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "string-width": {
       "integrity": "sha1-EYvfW4zcUaKn5w0hHgfisLmxB9M=",
       "requires": {
